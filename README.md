@@ -10,10 +10,12 @@ This assessment evaluates your ability to set up a database environment, write a
 2. Update your local `config.json` file with your MySQL connection credentials (host, user, password, database).
 3. Execute `main_create_tables.py` to generate the schema.
 4. Execute `main_upload_data.py` to populate the dataset.
-
 ---
 
-## Part 2: SQL Data Analysis
+## Part2: ERD Diagram - validate your data base structure
+![Rental Community Database ERD](assets/erd_diagram.png)
+
+## Part 3: SQL Data Analysis
 Write optimized SQL queries to answer the following business questions:
 
 1. **Payment Reliability:** Identify active leases that have accumulated overdue rent or penalty charges.
@@ -24,7 +26,7 @@ Write optimized SQL queries to answer the following business questions:
 
 ---
 
-## Part 3: Power BI Dashboards
+## Part 4: Power BI Dashboards
 Develop a interactive, multi-page Power BI report (`.pbix`) containing the following dashboards:
 
 ### Page 1: Executive Financial & Revenue Dashboard
