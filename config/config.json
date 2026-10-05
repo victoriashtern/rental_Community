@@ -1,9 +1,9 @@
 {
   "mysql": {
-    "host": "localhost",
-    "user": "root",
-    "password": "secret555!",
-    "database": "rental_community",
+    "host": "input_host",
+    "user": "unput_user",
+    "password": "input_password",
+    "database": "input_database",
     "port": 3306
   }
 }
