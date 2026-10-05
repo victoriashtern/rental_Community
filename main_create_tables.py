@@ -1,4 +1,4 @@
-from database.connection_org import Database
+from database.connection import Database
 from tables.buildings import Buildings
 from tables.apartments import Apartments
 from tables.tenates import Tenates
