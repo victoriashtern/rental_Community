@@ -1,0 +1,43 @@
+2026-10-04 22:15:57 | INFO     | Rental-Property | Rental Community started successfully.
+2026-10-04 22:15:58 | INFO     | Rental-Property | Rental_community.Completed
+2026-10-04 22:16:44 | INFO     | Rental-Property | Rental Community started successfully.
+2026-10-04 22:16:44 | INFO     | Rental-Property | Rental_community.Completed
+2026-10-04 22:18:00 | INFO     | Rental-Property | Rental Community started successfully.
+2026-10-04 22:18:00 | INFO     | Rental-Property | Rental_community.Completed
+2026-10-04 22:26:30 | INFO     | Rental-Property | Rental Community started successfully.
+2026-10-04 22:26:30 | INFO     | Rental-Property | Rental_community.Completed
+2026-10-04 22:28:01 | INFO     | Rental-Property | Rental Community started successfully.
+2026-10-04 22:28:02 | INFO     | Rental-Property | Rental_community.Completed
+2026-10-04 22:28:35 | INFO     | Rental-Property | Rental Community started successfully.
+2026-10-04 22:28:36 | INFO     | Rental-Property | Rental_community.Completed
+2026-10-04 22:36:54 | INFO     | Rental-Property | Rental Community started successfully.
+2026-10-04 22:36:56 | INFO     | Rental-Property | Rental_community.Completed uploading
+2026-10-04 22:49:46 | INFO     | Rental-Property | Rental Community started successfully.
+2026-10-04 22:49:47 | ERROR    | Rental-Property | Main_create_tables.main Error in creating tables. Create_tables Error in clear tables. Leases.create: Error delete table: 1824 (HY000): Failed to open the referenced table 'tenants' Table.delete     
+                    CREATE TABLE `leases` (
+                        `lease_id` int NOT NULL AUTO_INCREMENT,
+                        `apartment_id` int NOT NULL,
+                        `tenant_id` int NOT NULL,
+                        `start_date` date NOT NULL,
+                        `end_date` date NOT NULL,
+                        `security_deposit` decimal(10,2) NOT NULL,
+                        `lease_status` enum('Pending','Active','Terminated','Expired') DEFAULT 'Pending',
+                        PRIMARY KEY (`lease_id`),
+                        KEY `idx_lease_dates` (`start_date`,`end_date`),
+                        KEY `fg_appartment_idx` (`apartment_id`),
+                        KEY `fg_tenats_idx` (`tenant_id`),
+                        CONSTRAINT `fk_lease_appartment` FOREIGN KEY (`apartment_id`) REFERENCES `apartments` (`apartment_id`) ON DELETE CASCADE ON UPDATE CASCADE,
+                        CONSTRAINT `fk_lease_tenat` FOREIGN KEY (`tenant_id`) REFERENCES `tenants` (`tenant_id`) ON DELETE CASCADE ON UPDATE CASCADE
+                        ) ENGINE=InnoDB AUTO_INCREMENT=490 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+                
+2026-10-04 22:49:47 | INFO     | Rental-Property | Rental_community.Completed created tables
+2026-10-04 22:54:43 | INFO     | Rental-Property-Create-Tables | Rental Community Create Tables started successfully.
+2026-10-04 22:54:43 | INFO     | Rental-Property-Create-Tables | Rental Community.Completed 
+2026-10-04 23:04:24 | INFO     | Rental-Property | Rental Community started successfully.
+2026-10-04 23:04:24 | INFO     | Rental-Property | Rental_community.Completed uploading
+2026-10-05 00:22:37 | INFO     | Rental-Property | Rental Community started successfully.
+2026-10-05 00:22:37 | ERROR    | Rental-Property | Main_upload_data.clear_tables Error in clear tables. Database.__init__() takes 1 positional argument but 2 were given
+2026-10-05 00:22:37 | INFO     | Rental-Property | Rental_community.Completed uploading
+2026-10-05 00:25:18 | INFO     | Rental-Property | Rental Community started successfully.
+2026-10-05 00:31:22 | INFO     | Rental-Property | Rental Community started successfully.
+2026-10-05 00:31:51 | INFO     | Rental-Property | Rental_community.Completed uploading

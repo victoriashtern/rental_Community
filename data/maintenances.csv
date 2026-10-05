@@ -1,0 +1,731 @@
+request_id,apartment_id,tenant_id,category,title,description,priority,status,cost,resolved_at
+1,1,1,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,39.77,2025-05-01 11:00:00
+2,1,1,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,In Progress,0.0,NULL
+3,2,2,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,Resolved,88.16,2025-06-01 04:00:00
+4,3,3,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Resolved,494.63,2025-09-18 03:00:00
+5,3,3,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Resolved,77.99,2025-07-07 02:00:00
+6,5,4,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,48.52,2025-10-13 12:00:00
+7,6,5,Plumbing,Burst Water Pipe,"Major pipe burst behind bathroom wall, active water spray.",Emergency,Resolved,563.86,2025-09-23 06:00:00
+8,7,6,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,In Progress,0.0,NULL
+9,8,7,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,Resolved,62.24,2025-06-07 03:00:00
+10,8,7,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,Resolved,92.04,2025-08-18 10:00:00
+11,9,8,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Resolved,144.51,2025-06-22 04:00:00
+12,9,8,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,506.42,2025-03-03 05:00:00
+13,10,9,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,Resolved,99.92,2026-01-28 03:00:00
+14,11,10,Electrical,Complete Power Outage in Unit,Unit lost power while rest of floor remains fully energized.,Emergency,Resolved,411.45,2025-04-03 10:00:00
+15,12,11,Electrical,Dead Wall Outlets,Master bedroom outlets completely non-functional after minor surge.,Medium,Resolved,88.18,2025-05-28 02:00:00
+16,13,12,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,In Progress,0.0,NULL
+17,14,13,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Resolved,685.54,2025-07-01 11:00:00
+18,15,14,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,Cancelled,0.0,NULL
+19,15,14,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,195.92,2025-08-25 12:00:00
+20,16,15,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,Submitted,0.0,NULL
+21,16,15,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,In Progress,0.0,NULL
+22,17,16,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Resolved,132.35,2025-03-01 09:00:00
+23,17,16,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,In Progress,0.0,NULL
+24,18,17,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,34.05,2025-06-22 02:00:00
+25,19,18,Appliance,Refrigerator Not Cooling,Fridge compartment warm while freezer remains cold.,High,Submitted,0.0,NULL
+26,20,19,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,In Progress,0.0,NULL
+27,20,19,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,In Progress,0.0,NULL
+28,21,20,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Assigned,0.0,NULL
+29,21,20,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Resolved,108.69,2026-01-04 04:00:00
+30,21,20,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,68.77,2026-01-25 04:00:00
+31,22,21,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,Resolved,108.77,2025-06-06 09:00:00
+32,23,22,Appliance,Dishwasher Leaking Water,Water pooling on floor in front of dishwasher during rinse cycle.,Medium,Resolved,239.14,2025-02-16 10:00:00
+33,24,23,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,Resolved,73.57,2025-04-25 06:00:00
+34,25,24,Appliance,Refrigerator Not Cooling,Fridge compartment warm while freezer remains cold.,High,Assigned,0.0,NULL
+35,26,25,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,Resolved,117.86,2026-01-02 04:00:00
+36,26,25,Electrical,Dead Wall Outlets,Master bedroom outlets completely non-functional after minor surge.,Medium,Resolved,95.33,2025-10-23 05:00:00
+37,26,25,Appliance,Dishwasher Leaking Water,Water pooling on floor in front of dishwasher during rinse cycle.,Medium,Resolved,257.76,2025-10-25 02:00:00
+38,27,26,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,Resolved,312.17,2025-12-08 07:00:00
+39,28,27,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Resolved,162.0,2025-05-11 05:00:00
+40,29,28,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Resolved,174.45,2025-10-26 11:00:00
+41,29,28,Appliance,Dishwasher Leaking Water,Water pooling on floor in front of dishwasher during rinse cycle.,Medium,Resolved,127.89,2025-07-11 10:00:00
+42,29,28,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,Submitted,0.0,NULL
+43,30,29,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Resolved,278.72,2025-11-14 02:00:00
+44,31,30,Plumbing,Low Water Pressure,Significantly reduced water flow across all fixtures in apartment.,Medium,Resolved,183.42,2025-08-22 02:00:00
+45,31,30,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,In Progress,0.0,NULL
+46,32,31,Plumbing,Burst Water Pipe,"Major pipe burst behind bathroom wall, active water spray.",Emergency,In Progress,0.0,NULL
+47,33,32,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,Resolved,145.94,2026-01-08 05:00:00
+48,34,33,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Resolved,761.44,2025-09-05 08:00:00
+49,35,34,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,Resolved,153.29,2025-11-25 03:00:00
+50,35,34,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,256.79,2025-10-14 09:00:00
+51,36,35,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Resolved,194.39,2025-12-21 11:00:00
+52,36,35,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,Resolved,111.18,2025-08-04 03:00:00
+53,37,36,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Assigned,0.0,NULL
+54,38,37,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,Resolved,233.43,2025-04-03 02:00:00
+55,39,38,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,490.14,2025-11-25 03:00:00
+56,39,38,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Assigned,0.0,NULL
+57,40,39,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,Assigned,0.0,NULL
+58,41,40,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,In Progress,0.0,NULL
+59,42,41,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,92.92,2025-02-27 11:00:00
+60,43,42,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Cancelled,0.0,NULL
+61,44,43,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Submitted,0.0,NULL
+62,44,43,Electrical,Dead Wall Outlets,Master bedroom outlets completely non-functional after minor surge.,Medium,Resolved,78.59,2025-10-26 07:00:00
+63,45,44,Electrical,Circuit Breaker Tripping,Main breaker trips repeatedly when microwave and toaster are used.,High,Resolved,127.02,2025-10-11 08:00:00
+64,45,44,Electrical,Dead Wall Outlets,Master bedroom outlets completely non-functional after minor surge.,Medium,Resolved,119.25,2025-07-14 04:00:00
+65,46,45,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Resolved,254.23,2025-04-25 06:00:00
+66,47,46,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Resolved,90.76,2025-02-08 03:00:00
+67,47,46,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,Resolved,109.66,2025-02-28 12:00:00
+68,48,47,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Resolved,139.34,2025-06-05 04:00:00
+69,48,47,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Assigned,0.0,NULL
+70,49,48,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Resolved,91.9,2025-09-24 10:00:00
+71,50,49,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,76.68,2025-05-08 07:00:00
+72,51,50,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Resolved,193.04,2025-08-24 11:00:00
+73,51,50,Electrical,Complete Power Outage in Unit,Unit lost power while rest of floor remains fully energized.,Emergency,In Progress,0.0,NULL
+74,52,51,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,60.09,2025-04-25 10:00:00
+75,53,52,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,Resolved,89.92,2026-01-11 12:00:00
+76,53,52,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,Resolved,116.39,2025-12-02 06:00:00
+77,54,53,Electrical,Circuit Breaker Tripping,Main breaker trips repeatedly when microwave and toaster are used.,High,Resolved,136.84,2025-07-18 04:00:00
+78,55,54,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,Resolved,321.53,2025-12-15 04:00:00
+79,55,54,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,Resolved,80.66,2025-10-28 02:00:00
+80,55,54,Appliance,Dishwasher Leaking Water,Water pooling on floor in front of dishwasher during rinse cycle.,Medium,Resolved,193.95,2026-02-21 09:00:00
+81,56,55,Plumbing,Burst Water Pipe,"Major pipe burst behind bathroom wall, active water spray.",Emergency,Resolved,900.82,2025-11-11 10:00:00
+82,57,56,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Assigned,0.0,NULL
+83,58,57,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Resolved,630.75,2026-01-24 05:00:00
+84,59,58,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,Resolved,116.87,2025-12-17 02:00:00
+85,59,58,HVAC,Heater Making Loud Noise,Furnace makes loud banging noise upon startup cycle.,Medium,Resolved,211.9,2025-10-04 02:00:00
+86,60,59,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Assigned,0.0,NULL
+87,61,60,Plumbing,Burst Water Pipe,"Major pipe burst behind bathroom wall, active water spray.",Emergency,Resolved,788.35,2025-08-18 01:00:00
+88,61,60,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Resolved,269.75,2025-10-19 10:00:00
+89,62,61,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,57.3,2025-08-26 09:00:00
+90,63,62,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Resolved,110.72,2025-08-09 08:00:00
+91,63,62,Plumbing,Burst Water Pipe,"Major pipe burst behind bathroom wall, active water spray.",Emergency,Resolved,911.23,2025-09-25 12:00:00
+92,64,63,Appliance,Dishwasher Leaking Water,Water pooling on floor in front of dishwasher during rinse cycle.,Medium,In Progress,0.0,NULL
+93,65,64,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,In Progress,0.0,NULL
+94,66,65,Appliance,Dishwasher Leaking Water,Water pooling on floor in front of dishwasher during rinse cycle.,Medium,Resolved,91.06,2025-10-19 06:00:00
+95,67,66,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,Submitted,0.0,NULL
+96,68,67,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Resolved,52.52,2025-09-26 01:00:00
+97,69,68,HVAC,Heater Making Loud Noise,Furnace makes loud banging noise upon startup cycle.,Medium,In Progress,0.0,NULL
+98,69,68,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,Resolved,217.85,2025-06-23 03:00:00
+99,69,68,Electrical,Dead Wall Outlets,Master bedroom outlets completely non-functional after minor surge.,Medium,Resolved,91.59,2025-10-18 08:00:00
+100,70,69,HVAC,Heater Making Loud Noise,Furnace makes loud banging noise upon startup cycle.,Medium,In Progress,0.0,NULL
+101,70,69,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,Resolved,86.29,2025-07-21 10:00:00
+102,71,70,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,Assigned,0.0,NULL
+103,71,70,Plumbing,Low Water Pressure,Significantly reduced water flow across all fixtures in apartment.,Medium,Assigned,0.0,NULL
+104,72,71,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,Resolved,211.96,2025-09-27 09:00:00
+105,73,72,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,283.79,2025-07-10 08:00:00
+106,74,73,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Assigned,0.0,NULL
+107,75,74,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,In Progress,0.0,NULL
+108,76,75,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,Submitted,0.0,NULL
+109,76,75,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,Resolved,93.47,2025-06-18 04:00:00
+110,77,76,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Assigned,0.0,NULL
+111,77,76,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,207.28,2025-05-04 06:00:00
+112,78,77,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,In Progress,0.0,NULL
+113,78,77,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,Resolved,240.91,2025-09-04 04:00:00
+114,79,78,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Submitted,0.0,NULL
+115,79,78,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,Resolved,73.03,2025-06-22 07:00:00
+116,80,79,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,Resolved,171.86,2025-08-26 07:00:00
+117,80,79,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,Resolved,95.37,2025-10-23 05:00:00
+118,81,80,Electrical,Circuit Breaker Tripping,Main breaker trips repeatedly when microwave and toaster are used.,High,Resolved,233.97,2026-03-29 04:00:00
+119,82,81,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Assigned,0.0,NULL
+120,83,82,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Resolved,196.57,2025-09-25 04:00:00
+121,83,82,HVAC,Heater Making Loud Noise,Furnace makes loud banging noise upon startup cycle.,Medium,Resolved,347.81,2025-09-02 05:00:00
+122,83,82,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,In Progress,0.0,NULL
+123,84,83,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Resolved,199.07,2025-03-27 08:00:00
+124,84,83,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Resolved,82.82,2025-04-06 02:00:00
+125,85,84,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,Resolved,148.12,2025-10-16 03:00:00
+126,85,84,Electrical,Complete Power Outage in Unit,Unit lost power while rest of floor remains fully energized.,Emergency,Resolved,497.87,2025-06-12 09:00:00
+127,86,85,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,In Progress,0.0,NULL
+128,86,85,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Resolved,348.68,2025-07-14 07:00:00
+129,87,86,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,In Progress,0.0,NULL
+130,88,87,Electrical,Dead Wall Outlets,Master bedroom outlets completely non-functional after minor surge.,Medium,Resolved,86.77,2025-11-07 03:00:00
+131,89,88,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,Resolved,118.94,2025-12-10 05:00:00
+132,90,89,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,Assigned,0.0,NULL
+133,91,90,Electrical,Circuit Breaker Tripping,Main breaker trips repeatedly when microwave and toaster are used.,High,In Progress,0.0,NULL
+134,92,91,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Resolved,132.71,2025-09-16 05:00:00
+135,92,91,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,Resolved,129.26,2025-06-14 12:00:00
+136,93,92,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Resolved,613.21,2025-07-18 05:00:00
+137,93,92,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Resolved,91.26,2025-07-08 07:00:00
+138,94,93,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,Resolved,72.89,2025-10-21 10:00:00
+139,94,93,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,In Progress,0.0,NULL
+140,96,94,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Resolved,174.02,2026-03-03 03:00:00
+141,96,94,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,In Progress,0.0,NULL
+142,97,95,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Resolved,91.74,2025-05-18 03:00:00
+143,97,95,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Assigned,0.0,NULL
+144,97,95,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Submitted,0.0,NULL
+145,98,96,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,38.11,2025-04-26 09:00:00
+146,99,97,Plumbing,Low Water Pressure,Significantly reduced water flow across all fixtures in apartment.,Medium,Resolved,86.5,2025-06-21 06:00:00
+147,99,97,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,In Progress,0.0,NULL
+148,100,98,Electrical,Circuit Breaker Tripping,Main breaker trips repeatedly when microwave and toaster are used.,High,In Progress,0.0,NULL
+149,100,98,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Assigned,0.0,NULL
+150,101,99,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Assigned,0.0,NULL
+151,102,100,Plumbing,Low Water Pressure,Significantly reduced water flow across all fixtures in apartment.,Medium,Resolved,106.96,2025-09-03 08:00:00
+152,103,101,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Assigned,0.0,NULL
+153,103,101,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,Resolved,148.02,2025-06-12 08:00:00
+154,103,101,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Resolved,236.72,2025-04-01 12:00:00
+155,104,102,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Cancelled,0.0,NULL
+156,104,102,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,Resolved,124.5,2025-07-25 10:00:00
+157,105,103,Appliance,Dishwasher Leaking Water,Water pooling on floor in front of dishwasher during rinse cycle.,Medium,Resolved,186.56,2025-12-07 09:00:00
+158,106,104,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,Resolved,197.31,2025-10-22 10:00:00
+159,106,104,Appliance,Dishwasher Leaking Water,Water pooling on floor in front of dishwasher during rinse cycle.,Medium,Cancelled,0.0,NULL
+160,107,105,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,Resolved,170.94,2026-03-23 08:00:00
+161,108,106,Electrical,Complete Power Outage in Unit,Unit lost power while rest of floor remains fully energized.,Emergency,In Progress,0.0,NULL
+162,108,106,Plumbing,Burst Water Pipe,"Major pipe burst behind bathroom wall, active water spray.",Emergency,Resolved,1119.4,2025-09-26 12:00:00
+163,108,106,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,In Progress,0.0,NULL
+164,109,107,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,In Progress,0.0,NULL
+165,110,108,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Assigned,0.0,NULL
+166,111,109,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Resolved,570.48,2025-06-02 11:00:00
+167,112,110,HVAC,Heater Making Loud Noise,Furnace makes loud banging noise upon startup cycle.,Medium,Submitted,0.0,NULL
+168,112,110,Appliance,Refrigerator Not Cooling,Fridge compartment warm while freezer remains cold.,High,Submitted,0.0,NULL
+169,113,111,Plumbing,Burst Water Pipe,"Major pipe burst behind bathroom wall, active water spray.",Emergency,Resolved,569.52,2025-08-29 01:00:00
+170,113,111,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,299.92,2025-06-05 04:00:00
+171,114,112,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Resolved,93.42,2025-07-23 10:00:00
+172,115,113,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Resolved,153.01,2025-10-17 08:00:00
+173,115,113,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,445.25,2025-10-30 02:00:00
+174,116,114,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,Resolved,243.36,2025-09-09 08:00:00
+175,117,115,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Resolved,135.07,2025-09-27 06:00:00
+176,117,115,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,Assigned,0.0,NULL
+177,119,116,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Resolved,162.46,2025-06-01 10:00:00
+178,120,117,HVAC,Heater Making Loud Noise,Furnace makes loud banging noise upon startup cycle.,Medium,In Progress,0.0,NULL
+179,120,117,Electrical,Dead Wall Outlets,Master bedroom outlets completely non-functional after minor surge.,Medium,In Progress,0.0,NULL
+180,121,118,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,In Progress,0.0,NULL
+181,121,118,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,70.57,2025-09-29 02:00:00
+182,122,119,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Resolved,279.3,2025-06-02 06:00:00
+183,122,119,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Resolved,115.98,2025-05-23 05:00:00
+184,122,119,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,187.56,2025-04-28 11:00:00
+185,123,120,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Resolved,212.32,2025-10-16 05:00:00
+186,123,120,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,Resolved,268.21,2025-12-28 10:00:00
+187,124,121,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Assigned,0.0,NULL
+188,125,122,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Resolved,110.99,2025-11-11 11:00:00
+189,126,123,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Resolved,227.21,2025-10-28 05:00:00
+190,126,123,Appliance,Refrigerator Not Cooling,Fridge compartment warm while freezer remains cold.,High,Resolved,366.18,2025-11-23 07:00:00
+191,127,124,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,In Progress,0.0,NULL
+192,128,125,Appliance,Refrigerator Not Cooling,Fridge compartment warm while freezer remains cold.,High,Resolved,222.43,2025-09-01 01:00:00
+193,128,125,HVAC,Heater Making Loud Noise,Furnace makes loud banging noise upon startup cycle.,Medium,Resolved,432.69,2025-07-19 02:00:00
+194,130,126,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,In Progress,0.0,NULL
+195,130,126,Plumbing,Burst Water Pipe,"Major pipe burst behind bathroom wall, active water spray.",Emergency,Resolved,1171.39,2025-09-06 02:00:00
+196,130,126,Electrical,Complete Power Outage in Unit,Unit lost power while rest of floor remains fully energized.,Emergency,Resolved,425.38,2025-07-30 03:00:00
+197,131,127,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,Submitted,0.0,NULL
+198,131,127,Electrical,Complete Power Outage in Unit,Unit lost power while rest of floor remains fully energized.,Emergency,Resolved,265.0,2025-05-29 10:00:00
+199,133,128,Electrical,Dead Wall Outlets,Master bedroom outlets completely non-functional after minor surge.,Medium,Resolved,190.78,2025-03-12 11:00:00
+200,134,129,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,Resolved,108.89,2025-08-20 03:00:00
+201,134,129,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,322.06,2025-12-27 12:00:00
+202,135,130,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Resolved,64.18,2026-02-16 04:00:00
+203,136,131,Plumbing,Low Water Pressure,Significantly reduced water flow across all fixtures in apartment.,Medium,Resolved,157.2,2025-05-13 01:00:00
+204,136,131,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,Resolved,75.11,2025-07-13 02:00:00
+205,136,131,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,In Progress,0.0,NULL
+206,137,132,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,In Progress,0.0,NULL
+207,138,133,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,In Progress,0.0,NULL
+208,139,134,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Resolved,191.03,2025-07-08 11:00:00
+209,140,135,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Resolved,230.98,2025-09-04 06:00:00
+210,140,135,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,Resolved,73.31,2025-11-14 06:00:00
+211,141,136,HVAC,Heater Making Loud Noise,Furnace makes loud banging noise upon startup cycle.,Medium,Assigned,0.0,NULL
+212,141,136,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,Resolved,136.38,2025-03-02 03:00:00
+213,142,137,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,In Progress,0.0,NULL
+214,143,138,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Assigned,0.0,NULL
+215,143,138,Appliance,Refrigerator Not Cooling,Fridge compartment warm while freezer remains cold.,High,Resolved,193.73,2025-07-19 10:00:00
+216,144,139,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Resolved,156.52,2025-03-22 06:00:00
+217,145,140,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,Resolved,222.9,2026-01-03 10:00:00
+218,146,141,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,In Progress,0.0,NULL
+219,146,141,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,457.3,2025-04-23 06:00:00
+220,147,142,Electrical,Dead Wall Outlets,Master bedroom outlets completely non-functional after minor surge.,Medium,In Progress,0.0,NULL
+221,148,143,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,Resolved,103.05,2025-09-23 07:00:00
+222,149,144,Electrical,Circuit Breaker Tripping,Main breaker trips repeatedly when microwave and toaster are used.,High,Resolved,181.1,2026-03-14 10:00:00
+223,150,145,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,Resolved,89.43,2025-10-11 05:00:00
+224,151,146,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,In Progress,0.0,NULL
+225,152,147,Electrical,Complete Power Outage in Unit,Unit lost power while rest of floor remains fully energized.,Emergency,Resolved,300.47,2026-01-02 11:00:00
+226,153,148,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Assigned,0.0,NULL
+227,153,148,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,Resolved,44.38,2026-01-12 05:00:00
+228,154,149,Electrical,Circuit Breaker Tripping,Main breaker trips repeatedly when microwave and toaster are used.,High,Resolved,130.0,2025-07-20 12:00:00
+229,154,149,Appliance,Dishwasher Leaking Water,Water pooling on floor in front of dishwasher during rinse cycle.,Medium,Resolved,197.17,2025-08-01 09:00:00
+230,154,149,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,Resolved,136.18,2025-08-04 07:00:00
+231,155,150,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,In Progress,0.0,NULL
+232,156,151,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Resolved,52.71,2025-09-28 03:00:00
+233,157,152,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Assigned,0.0,NULL
+234,157,152,Plumbing,Burst Water Pipe,"Major pipe burst behind bathroom wall, active water spray.",Emergency,Resolved,692.11,2025-10-03 09:00:00
+235,158,153,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,Resolved,153.49,2025-10-10 09:00:00
+236,159,154,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Resolved,129.15,2025-11-17 04:00:00
+237,159,154,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,Resolved,53.88,2025-10-09 11:00:00
+238,160,155,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,Submitted,0.0,NULL
+239,161,156,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,In Progress,0.0,NULL
+240,161,156,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,In Progress,0.0,NULL
+241,162,157,Plumbing,Burst Water Pipe,"Major pipe burst behind bathroom wall, active water spray.",Emergency,Resolved,572.54,2025-08-19 10:00:00
+242,163,158,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,Resolved,212.98,2025-09-08 06:00:00
+243,164,159,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,In Progress,0.0,NULL
+244,164,159,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Resolved,477.16,2025-09-27 08:00:00
+245,165,160,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Resolved,160.86,2025-07-13 01:00:00
+246,165,160,Appliance,Refrigerator Not Cooling,Fridge compartment warm while freezer remains cold.,High,Resolved,125.3,2025-08-10 01:00:00
+247,165,160,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Resolved,189.32,2025-06-23 06:00:00
+248,166,161,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Resolved,607.34,2025-09-23 11:00:00
+249,167,162,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,77.49,2025-06-10 05:00:00
+250,167,162,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Resolved,179.07,2025-02-07 06:00:00
+251,168,163,Appliance,Dishwasher Leaking Water,Water pooling on floor in front of dishwasher during rinse cycle.,Medium,In Progress,0.0,NULL
+252,169,164,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,Resolved,213.54,2025-10-11 11:00:00
+253,169,164,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,In Progress,0.0,NULL
+254,169,164,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Resolved,135.27,2025-05-04 04:00:00
+255,170,165,Appliance,Dishwasher Leaking Water,Water pooling on floor in front of dishwasher during rinse cycle.,Medium,Resolved,114.09,2025-02-16 02:00:00
+256,171,166,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Resolved,127.15,2025-08-04 03:00:00
+257,172,167,Electrical,Dead Wall Outlets,Master bedroom outlets completely non-functional after minor surge.,Medium,Resolved,186.81,2025-08-03 12:00:00
+258,173,168,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Assigned,0.0,NULL
+259,174,169,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Resolved,204.74,2025-08-24 04:00:00
+260,175,170,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Resolved,606.98,2025-05-01 08:00:00
+261,176,171,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Resolved,451.2,2025-11-08 04:00:00
+262,177,172,Electrical,Circuit Breaker Tripping,Main breaker trips repeatedly when microwave and toaster are used.,High,Resolved,220.15,2025-07-28 09:00:00
+263,177,172,Plumbing,Low Water Pressure,Significantly reduced water flow across all fixtures in apartment.,Medium,Resolved,90.07,2025-04-26 05:00:00
+264,178,173,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Resolved,240.89,2025-10-21 08:00:00
+265,179,174,Plumbing,Burst Water Pipe,"Major pipe burst behind bathroom wall, active water spray.",Emergency,Resolved,751.81,2025-08-18 07:00:00
+266,179,174,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,52.31,2025-05-15 12:00:00
+267,180,175,Electrical,Dead Wall Outlets,Master bedroom outlets completely non-functional after minor surge.,Medium,Resolved,208.02,2025-08-13 12:00:00
+268,180,175,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Resolved,91.0,2025-11-02 01:00:00
+269,181,176,Electrical,Complete Power Outage in Unit,Unit lost power while rest of floor remains fully energized.,Emergency,Submitted,0.0,NULL
+270,182,177,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,38.53,2025-07-13 07:00:00
+271,183,178,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Resolved,618.34,2025-04-15 10:00:00
+272,183,178,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,In Progress,0.0,NULL
+273,184,179,Electrical,Circuit Breaker Tripping,Main breaker trips repeatedly when microwave and toaster are used.,High,Resolved,253.7,2025-09-07 10:00:00
+274,185,180,Plumbing,Low Water Pressure,Significantly reduced water flow across all fixtures in apartment.,Medium,Resolved,194.41,2025-06-01 09:00:00
+275,186,181,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Resolved,202.27,2025-12-14 11:00:00
+276,186,181,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Resolved,52.11,2026-03-16 06:00:00
+277,187,182,Plumbing,Low Water Pressure,Significantly reduced water flow across all fixtures in apartment.,Medium,Submitted,0.0,NULL
+278,188,183,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,86.95,2025-07-10 11:00:00
+279,189,184,Appliance,Dishwasher Leaking Water,Water pooling on floor in front of dishwasher during rinse cycle.,Medium,Resolved,237.53,2025-03-15 01:00:00
+280,190,185,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,Resolved,114.67,2025-05-20 07:00:00
+281,191,186,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Resolved,576.65,2025-08-25 05:00:00
+282,191,186,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,In Progress,0.0,NULL
+283,191,186,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,546.95,2025-12-07 07:00:00
+284,192,187,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Assigned,0.0,NULL
+285,193,188,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,Resolved,92.45,2026-02-16 10:00:00
+286,194,189,Electrical,Complete Power Outage in Unit,Unit lost power while rest of floor remains fully energized.,Emergency,Resolved,185.91,2025-10-28 11:00:00
+287,194,189,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,Resolved,146.12,2026-01-07 12:00:00
+288,194,189,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Resolved,144.49,2025-08-17 10:00:00
+289,195,190,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,426.01,2026-02-23 09:00:00
+290,195,190,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,Resolved,117.81,2026-02-08 01:00:00
+291,195,190,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,Resolved,86.63,2026-02-18 10:00:00
+292,196,191,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Resolved,174.35,2025-05-09 10:00:00
+293,197,192,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Resolved,367.21,2025-08-11 01:00:00
+294,198,193,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Resolved,91.2,2025-07-02 12:00:00
+295,198,193,Appliance,Dishwasher Leaking Water,Water pooling on floor in front of dishwasher during rinse cycle.,Medium,In Progress,0.0,NULL
+296,199,194,Appliance,Dishwasher Leaking Water,Water pooling on floor in front of dishwasher during rinse cycle.,Medium,Resolved,267.62,2025-09-07 03:00:00
+297,199,194,Appliance,Refrigerator Not Cooling,Fridge compartment warm while freezer remains cold.,High,Assigned,0.0,NULL
+298,200,195,Plumbing,Low Water Pressure,Significantly reduced water flow across all fixtures in apartment.,Medium,Resolved,186.96,2025-09-12 12:00:00
+299,200,195,Electrical,Circuit Breaker Tripping,Main breaker trips repeatedly when microwave and toaster are used.,High,Resolved,130.34,2025-08-26 03:00:00
+300,201,196,Appliance,Refrigerator Not Cooling,Fridge compartment warm while freezer remains cold.,High,Resolved,271.68,2025-07-25 09:00:00
+301,202,197,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,Resolved,249.92,2025-08-26 09:00:00
+302,203,198,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Resolved,245.03,2025-05-17 08:00:00
+303,204,199,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,Resolved,113.98,2025-09-03 03:00:00
+304,205,200,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,Resolved,110.82,2025-10-03 06:00:00
+305,206,201,Electrical,Circuit Breaker Tripping,Main breaker trips repeatedly when microwave and toaster are used.,High,Resolved,311.48,2025-06-01 04:00:00
+306,206,201,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,Resolved,80.28,2025-08-30 02:00:00
+307,206,201,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,In Progress,0.0,NULL
+308,207,202,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Resolved,85.77,2026-01-02 02:00:00
+309,208,203,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,In Progress,0.0,NULL
+310,209,204,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,In Progress,0.0,NULL
+311,209,204,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Resolved,242.2,2025-11-12 04:00:00
+312,210,205,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Resolved,139.52,2025-09-19 08:00:00
+313,210,205,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,Resolved,107.63,2025-10-23 06:00:00
+314,211,206,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,Resolved,151.28,2025-06-20 09:00:00
+315,211,206,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,38.58,2025-09-13 04:00:00
+316,212,207,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,59.27,2025-07-22 06:00:00
+317,213,208,HVAC,Heater Making Loud Noise,Furnace makes loud banging noise upon startup cycle.,Medium,Submitted,0.0,NULL
+318,213,208,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Resolved,228.23,2025-12-29 01:00:00
+319,213,208,Plumbing,Burst Water Pipe,"Major pipe burst behind bathroom wall, active water spray.",Emergency,Resolved,1170.02,2025-12-17 10:00:00
+320,214,209,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,91.76,2025-07-31 05:00:00
+321,215,210,Plumbing,Burst Water Pipe,"Major pipe burst behind bathroom wall, active water spray.",Emergency,Resolved,954.76,2025-04-12 06:00:00
+322,216,211,Plumbing,Low Water Pressure,Significantly reduced water flow across all fixtures in apartment.,Medium,In Progress,0.0,NULL
+323,217,212,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,336.17,2025-07-06 05:00:00
+324,218,213,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Resolved,216.51,2025-06-12 06:00:00
+325,218,213,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,Resolved,100.25,2025-11-21 09:00:00
+326,219,214,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,Resolved,192.72,2025-05-10 09:00:00
+327,220,215,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Resolved,210.39,2025-10-27 03:00:00
+328,221,216,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,In Progress,0.0,NULL
+329,222,217,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Resolved,158.81,2026-03-13 01:00:00
+330,223,218,Plumbing,Burst Water Pipe,"Major pipe burst behind bathroom wall, active water spray.",Emergency,In Progress,0.0,NULL
+331,224,219,Plumbing,Low Water Pressure,Significantly reduced water flow across all fixtures in apartment.,Medium,Resolved,196.05,2025-10-10 10:00:00
+332,224,219,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,In Progress,0.0,NULL
+333,225,220,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Resolved,321.1,2025-08-03 12:00:00
+334,226,221,Plumbing,Burst Water Pipe,"Major pipe burst behind bathroom wall, active water spray.",Emergency,Resolved,436.29,2025-07-18 07:00:00
+335,227,222,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Submitted,0.0,NULL
+336,228,223,Electrical,Complete Power Outage in Unit,Unit lost power while rest of floor remains fully energized.,Emergency,Resolved,263.77,2025-06-03 09:00:00
+337,229,224,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Resolved,193.79,2025-10-22 10:00:00
+338,230,225,Electrical,Circuit Breaker Tripping,Main breaker trips repeatedly when microwave and toaster are used.,High,In Progress,0.0,NULL
+339,231,226,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,Assigned,0.0,NULL
+340,232,227,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Resolved,122.86,2025-09-01 05:00:00
+341,232,227,Plumbing,Low Water Pressure,Significantly reduced water flow across all fixtures in apartment.,Medium,Assigned,0.0,NULL
+342,233,228,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Cancelled,0.0,NULL
+343,234,229,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,434.87,2026-01-07 04:00:00
+344,235,230,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,In Progress,0.0,NULL
+345,236,231,Plumbing,Low Water Pressure,Significantly reduced water flow across all fixtures in apartment.,Medium,Submitted,0.0,NULL
+346,237,232,Plumbing,Low Water Pressure,Significantly reduced water flow across all fixtures in apartment.,Medium,Resolved,107.94,2025-11-17 07:00:00
+347,238,233,Appliance,Refrigerator Not Cooling,Fridge compartment warm while freezer remains cold.,High,Assigned,0.0,NULL
+348,239,234,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Resolved,238.96,2025-07-25 08:00:00
+349,240,235,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,Resolved,67.1,2025-07-22 11:00:00
+350,240,235,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Resolved,202.93,2025-08-15 03:00:00
+351,241,236,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,Resolved,68.63,2025-10-22 01:00:00
+352,242,237,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Resolved,119.84,2025-05-05 09:00:00
+353,243,238,Electrical,Complete Power Outage in Unit,Unit lost power while rest of floor remains fully energized.,Emergency,Resolved,217.48,2025-04-11 06:00:00
+354,244,239,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Assigned,0.0,NULL
+355,245,240,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,In Progress,0.0,NULL
+356,246,241,Electrical,Complete Power Outage in Unit,Unit lost power while rest of floor remains fully energized.,Emergency,In Progress,0.0,NULL
+357,246,241,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Resolved,142.15,2025-04-19 03:00:00
+358,247,242,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Resolved,83.9,2025-02-07 08:00:00
+359,247,242,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,Resolved,146.75,2025-07-04 05:00:00
+360,247,242,HVAC,Heater Making Loud Noise,Furnace makes loud banging noise upon startup cycle.,Medium,Resolved,141.38,2025-07-27 03:00:00
+361,248,243,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,Assigned,0.0,NULL
+362,249,244,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,In Progress,0.0,NULL
+363,249,244,Electrical,Dead Wall Outlets,Master bedroom outlets completely non-functional after minor surge.,Medium,Resolved,140.97,2025-04-01 06:00:00
+364,250,245,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Submitted,0.0,NULL
+365,251,246,Electrical,Dead Wall Outlets,Master bedroom outlets completely non-functional after minor surge.,Medium,Assigned,0.0,NULL
+366,251,246,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,Resolved,232.04,2025-06-07 02:00:00
+367,252,247,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,In Progress,0.0,NULL
+368,252,247,Electrical,Complete Power Outage in Unit,Unit lost power while rest of floor remains fully energized.,Emergency,Resolved,207.59,2025-03-24 08:00:00
+369,252,247,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,Assigned,0.0,NULL
+370,253,248,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Resolved,265.97,2025-09-03 08:00:00
+371,254,249,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Assigned,0.0,NULL
+372,255,250,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Resolved,78.33,2025-09-15 01:00:00
+373,255,250,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Assigned,0.0,NULL
+374,256,251,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,Resolved,107.42,2025-05-22 03:00:00
+375,257,252,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Resolved,163.05,2025-05-24 07:00:00
+376,257,252,Plumbing,Low Water Pressure,Significantly reduced water flow across all fixtures in apartment.,Medium,Resolved,183.23,2025-07-13 03:00:00
+377,258,253,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Resolved,246.17,2025-08-22 01:00:00
+378,258,253,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Assigned,0.0,NULL
+379,258,253,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Resolved,611.68,2025-05-26 08:00:00
+380,259,254,HVAC,Heater Making Loud Noise,Furnace makes loud banging noise upon startup cycle.,Medium,Assigned,0.0,NULL
+381,260,255,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Cancelled,0.0,NULL
+382,261,256,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,In Progress,0.0,NULL
+383,262,257,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,Submitted,0.0,NULL
+384,263,258,Electrical,Complete Power Outage in Unit,Unit lost power while rest of floor remains fully energized.,Emergency,Resolved,452.31,2025-10-31 03:00:00
+385,264,259,HVAC,Heater Making Loud Noise,Furnace makes loud banging noise upon startup cycle.,Medium,Submitted,0.0,NULL
+386,265,260,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,Resolved,137.63,2025-07-29 04:00:00
+387,266,261,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,In Progress,0.0,NULL
+388,267,262,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,In Progress,0.0,NULL
+389,267,262,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,In Progress,0.0,NULL
+390,268,263,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,Assigned,0.0,NULL
+391,269,264,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Resolved,522.76,2025-12-20 04:00:00
+392,270,265,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Resolved,168.41,2026-01-22 09:00:00
+393,271,266,Appliance,Dishwasher Leaking Water,Water pooling on floor in front of dishwasher during rinse cycle.,Medium,Resolved,152.66,2025-08-08 08:00:00
+394,272,267,Plumbing,Low Water Pressure,Significantly reduced water flow across all fixtures in apartment.,Medium,Assigned,0.0,NULL
+395,272,267,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,72.35,2025-08-04 02:00:00
+396,273,268,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Resolved,109.24,2025-05-15 05:00:00
+397,274,269,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,Resolved,49.39,2026-03-09 04:00:00
+398,274,269,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Resolved,173.85,2025-10-31 07:00:00
+399,274,269,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,In Progress,0.0,NULL
+400,275,270,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,Resolved,92.26,2025-06-29 06:00:00
+401,276,271,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,Resolved,127.5,2025-02-25 12:00:00
+402,276,271,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,Resolved,143.48,2025-07-08 12:00:00
+403,276,271,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Resolved,92.88,2025-04-07 10:00:00
+404,277,272,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,In Progress,0.0,NULL
+405,277,272,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,Submitted,0.0,NULL
+406,278,273,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,Resolved,171.3,2026-03-30 03:00:00
+407,278,273,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Resolved,695.16,2026-02-08 09:00:00
+408,278,273,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,Assigned,0.0,NULL
+409,279,274,Appliance,Dishwasher Leaking Water,Water pooling on floor in front of dishwasher during rinse cycle.,Medium,In Progress,0.0,NULL
+410,279,274,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,Resolved,80.46,2025-07-18 01:00:00
+411,280,275,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,In Progress,0.0,NULL
+412,280,275,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,Resolved,132.27,2025-08-03 09:00:00
+413,281,276,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,Resolved,131.32,2025-11-12 03:00:00
+414,281,276,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,Resolved,98.19,2025-08-15 09:00:00
+415,282,277,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,Resolved,104.77,2025-03-06 08:00:00
+416,283,278,Electrical,Circuit Breaker Tripping,Main breaker trips repeatedly when microwave and toaster are used.,High,Assigned,0.0,NULL
+417,284,279,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,Resolved,125.43,2025-10-23 01:00:00
+418,284,279,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,Resolved,107.63,2025-11-21 10:00:00
+419,285,280,Plumbing,Low Water Pressure,Significantly reduced water flow across all fixtures in apartment.,Medium,Resolved,105.37,2025-08-02 08:00:00
+420,285,280,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,564.28,2025-11-27 10:00:00
+421,285,280,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,Resolved,116.92,2025-06-09 03:00:00
+422,286,281,Appliance,Refrigerator Not Cooling,Fridge compartment warm while freezer remains cold.,High,Resolved,269.19,2025-05-12 07:00:00
+423,286,281,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,Resolved,123.97,2025-10-07 09:00:00
+424,288,282,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,231.43,2025-12-08 06:00:00
+425,288,282,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,In Progress,0.0,NULL
+426,289,283,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,In Progress,0.0,NULL
+427,289,283,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,Resolved,137.43,2025-09-12 07:00:00
+428,289,283,Electrical,Complete Power Outage in Unit,Unit lost power while rest of floor remains fully energized.,Emergency,In Progress,0.0,NULL
+429,290,284,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,Resolved,57.35,2026-04-06 03:00:00
+430,291,285,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Resolved,110.24,2025-04-13 05:00:00
+431,292,286,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,209.95,2025-07-04 09:00:00
+432,293,287,Appliance,Refrigerator Not Cooling,Fridge compartment warm while freezer remains cold.,High,Resolved,206.17,2025-03-23 10:00:00
+433,294,288,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Resolved,448.29,2025-05-29 12:00:00
+434,296,289,Electrical,Complete Power Outage in Unit,Unit lost power while rest of floor remains fully energized.,Emergency,Resolved,389.86,2025-07-05 03:00:00
+435,296,289,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,Resolved,77.51,2025-09-26 07:00:00
+436,296,289,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Resolved,669.6,2025-09-24 05:00:00
+437,297,290,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,In Progress,0.0,NULL
+438,297,290,Appliance,Refrigerator Not Cooling,Fridge compartment warm while freezer remains cold.,High,Resolved,102.03,2025-05-26 06:00:00
+439,297,290,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Resolved,367.37,2025-07-01 03:00:00
+440,298,291,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Resolved,110.2,2025-05-24 06:00:00
+441,299,292,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Resolved,137.69,2025-06-21 06:00:00
+442,300,293,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,In Progress,0.0,NULL
+443,301,294,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,Submitted,0.0,NULL
+444,302,295,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Resolved,103.14,2025-10-21 11:00:00
+445,302,295,Appliance,Dishwasher Leaking Water,Water pooling on floor in front of dishwasher during rinse cycle.,Medium,In Progress,0.0,NULL
+446,302,295,Electrical,Circuit Breaker Tripping,Main breaker trips repeatedly when microwave and toaster are used.,High,In Progress,0.0,NULL
+447,303,296,Appliance,Refrigerator Not Cooling,Fridge compartment warm while freezer remains cold.,High,Resolved,243.77,2025-12-04 09:00:00
+448,303,296,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Resolved,595.36,2025-07-12 12:00:00
+449,304,297,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,In Progress,0.0,NULL
+450,304,297,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,In Progress,0.0,NULL
+451,305,298,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,In Progress,0.0,NULL
+452,306,299,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Resolved,51.37,2025-10-21 04:00:00
+453,306,299,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,In Progress,0.0,NULL
+454,307,300,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Resolved,177.98,2025-12-27 12:00:00
+455,307,300,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Resolved,162.07,2025-09-22 07:00:00
+456,308,301,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,Submitted,0.0,NULL
+457,308,301,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,Resolved,154.11,2025-09-12 08:00:00
+458,308,301,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Resolved,633.2,2025-09-07 06:00:00
+459,309,302,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,Resolved,179.59,2025-05-01 12:00:00
+460,310,303,Electrical,Complete Power Outage in Unit,Unit lost power while rest of floor remains fully energized.,Emergency,Resolved,345.95,2025-05-21 04:00:00
+461,311,304,Electrical,Dead Wall Outlets,Master bedroom outlets completely non-functional after minor surge.,Medium,In Progress,0.0,NULL
+462,311,304,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,Resolved,145.97,2026-02-16 08:00:00
+463,312,305,Appliance,Refrigerator Not Cooling,Fridge compartment warm while freezer remains cold.,High,Assigned,0.0,NULL
+464,313,306,Plumbing,Low Water Pressure,Significantly reduced water flow across all fixtures in apartment.,Medium,Resolved,102.44,2025-06-17 04:00:00
+465,314,307,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Resolved,388.04,2025-06-23 10:00:00
+466,315,308,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,73.22,2025-10-23 10:00:00
+467,316,309,Electrical,Circuit Breaker Tripping,Main breaker trips repeatedly when microwave and toaster are used.,High,Resolved,176.35,2025-05-15 06:00:00
+468,317,310,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Resolved,268.93,2025-10-23 07:00:00
+469,317,310,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,In Progress,0.0,NULL
+470,318,311,Electrical,Complete Power Outage in Unit,Unit lost power while rest of floor remains fully energized.,Emergency,Resolved,251.09,2025-08-03 06:00:00
+471,318,311,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Resolved,241.33,2025-07-02 03:00:00
+472,319,312,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Resolved,159.09,2026-02-07 07:00:00
+473,320,313,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,Resolved,139.16,2025-09-04 05:00:00
+474,320,313,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,50.21,2025-12-31 10:00:00
+475,321,314,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Resolved,173.09,2025-02-10 09:00:00
+476,321,314,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,Submitted,0.0,NULL
+477,322,315,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Resolved,88.43,2025-06-22 05:00:00
+478,322,315,Plumbing,Burst Water Pipe,"Major pipe burst behind bathroom wall, active water spray.",Emergency,Resolved,1075.98,2025-06-02 08:00:00
+479,323,316,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,Resolved,87.03,2025-08-23 12:00:00
+480,323,316,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Resolved,269.62,2025-07-22 04:00:00
+481,324,317,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,Resolved,109.69,2025-06-04 06:00:00
+482,324,317,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,In Progress,0.0,NULL
+483,325,318,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,Resolved,296.42,2025-08-05 05:00:00
+484,325,318,Electrical,Dead Wall Outlets,Master bedroom outlets completely non-functional after minor surge.,Medium,Resolved,178.15,2025-03-04 11:00:00
+485,325,318,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,Resolved,148.54,2025-06-24 07:00:00
+486,326,319,Plumbing,Burst Water Pipe,"Major pipe burst behind bathroom wall, active water spray.",Emergency,Resolved,550.4,2026-01-24 08:00:00
+487,327,320,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,Resolved,91.3,2025-09-29 11:00:00
+488,327,320,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,224.56,2025-07-05 04:00:00
+489,327,320,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Resolved,93.91,2025-06-07 03:00:00
+490,328,321,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Assigned,0.0,NULL
+491,329,322,Plumbing,Burst Water Pipe,"Major pipe burst behind bathroom wall, active water spray.",Emergency,Resolved,1136.49,2025-04-14 08:00:00
+492,330,323,Appliance,Dishwasher Leaking Water,Water pooling on floor in front of dishwasher during rinse cycle.,Medium,Assigned,0.0,NULL
+493,331,324,HVAC,Heater Making Loud Noise,Furnace makes loud banging noise upon startup cycle.,Medium,Resolved,329.11,2025-07-08 02:00:00
+494,331,324,HVAC,Heater Making Loud Noise,Furnace makes loud banging noise upon startup cycle.,Medium,Resolved,318.96,2025-09-23 07:00:00
+495,332,325,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,Resolved,65.59,2025-11-15 04:00:00
+496,332,325,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Resolved,547.8,2025-07-14 07:00:00
+497,333,326,Appliance,Refrigerator Not Cooling,Fridge compartment warm while freezer remains cold.,High,Resolved,126.8,2025-05-05 02:00:00
+498,333,326,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,Resolved,105.93,2025-03-04 11:00:00
+499,334,327,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,Resolved,50.85,2025-12-01 08:00:00
+500,334,327,HVAC,Heater Making Loud Noise,Furnace makes loud banging noise upon startup cycle.,Medium,In Progress,0.0,NULL
+501,334,327,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,In Progress,0.0,NULL
+502,335,328,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,Resolved,125.24,2025-06-02 12:00:00
+503,336,329,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Resolved,86.01,2025-07-16 04:00:00
+504,337,330,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Resolved,83.76,2025-08-25 04:00:00
+505,338,331,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Submitted,0.0,NULL
+506,339,332,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,Resolved,49.02,2025-11-12 11:00:00
+507,340,333,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,Resolved,133.0,2025-06-20 07:00:00
+508,341,334,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Cancelled,0.0,NULL
+509,342,335,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,Resolved,57.97,2025-05-25 07:00:00
+510,343,336,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Resolved,401.14,2025-10-07 09:00:00
+511,344,337,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,365.43,2025-08-27 03:00:00
+512,344,337,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,Resolved,113.43,2026-01-03 05:00:00
+513,345,338,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,Resolved,142.46,2025-02-10 08:00:00
+514,345,338,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Resolved,173.25,2025-04-09 02:00:00
+515,346,339,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,Resolved,145.3,2025-08-17 09:00:00
+516,347,340,HVAC,Heater Making Loud Noise,Furnace makes loud banging noise upon startup cycle.,Medium,Resolved,362.42,2025-07-30 12:00:00
+517,347,340,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,Resolved,104.4,2025-10-13 05:00:00
+518,348,341,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,Resolved,227.7,2025-11-29 08:00:00
+519,348,341,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Resolved,123.37,2025-09-14 10:00:00
+520,349,342,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,Submitted,0.0,NULL
+521,349,342,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,Resolved,59.2,2025-07-17 07:00:00
+522,350,343,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,In Progress,0.0,NULL
+523,350,343,Appliance,Dishwasher Leaking Water,Water pooling on floor in front of dishwasher during rinse cycle.,Medium,Resolved,171.58,2025-07-27 05:00:00
+524,350,343,Plumbing,Low Water Pressure,Significantly reduced water flow across all fixtures in apartment.,Medium,Resolved,140.24,2025-06-22 03:00:00
+525,351,344,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,Resolved,319.25,2025-04-17 05:00:00
+526,352,345,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Resolved,300.34,2025-06-09 05:00:00
+527,353,346,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Resolved,274.65,2025-12-20 12:00:00
+528,353,346,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Resolved,238.51,2025-07-22 04:00:00
+529,354,347,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,76.01,2025-08-10 02:00:00
+530,356,348,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Resolved,274.79,2025-09-20 12:00:00
+531,357,349,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,Resolved,96.07,2025-08-15 08:00:00
+532,358,350,Plumbing,Low Water Pressure,Significantly reduced water flow across all fixtures in apartment.,Medium,Resolved,96.02,2025-08-29 02:00:00
+533,358,350,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Resolved,172.74,2025-08-09 04:00:00
+534,358,350,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,Resolved,144.09,2025-07-30 06:00:00
+535,359,351,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,Resolved,127.99,2025-10-07 02:00:00
+536,360,352,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Resolved,167.24,2025-09-27 06:00:00
+537,361,353,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Resolved,140.35,2025-10-08 02:00:00
+538,361,353,Electrical,Circuit Breaker Tripping,Main breaker trips repeatedly when microwave and toaster are used.,High,Assigned,0.0,NULL
+539,361,353,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,Resolved,137.08,2025-09-04 06:00:00
+540,362,354,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,32.18,2025-06-19 08:00:00
+541,363,355,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Resolved,97.32,2025-08-28 02:00:00
+542,364,356,Electrical,Dead Wall Outlets,Master bedroom outlets completely non-functional after minor surge.,Medium,Resolved,128.97,2025-05-01 10:00:00
+543,365,357,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,Resolved,230.5,2025-06-07 03:00:00
+544,366,358,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,144.31,2025-11-29 07:00:00
+545,367,359,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,Resolved,155.65,2025-09-30 06:00:00
+546,367,359,Electrical,Dead Wall Outlets,Master bedroom outlets completely non-functional after minor surge.,Medium,Resolved,139.67,2025-09-04 01:00:00
+547,368,360,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,In Progress,0.0,NULL
+548,368,360,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,In Progress,0.0,NULL
+549,369,361,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Resolved,319.67,2025-06-02 04:00:00
+550,370,362,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,Resolved,189.78,2025-12-01 08:00:00
+551,370,362,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,Resolved,142.97,2025-08-20 01:00:00
+552,371,363,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,Cancelled,0.0,NULL
+553,372,364,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Resolved,249.93,2026-02-21 02:00:00
+554,373,365,Electrical,Circuit Breaker Tripping,Main breaker trips repeatedly when microwave and toaster are used.,High,Resolved,113.98,2026-02-04 10:00:00
+555,374,366,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Resolved,80.75,2025-08-11 12:00:00
+556,374,366,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,Resolved,197.6,2025-12-26 10:00:00
+557,375,367,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Resolved,123.36,2025-04-10 02:00:00
+558,377,368,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Resolved,161.26,2025-07-21 10:00:00
+559,378,369,Electrical,Circuit Breaker Tripping,Main breaker trips repeatedly when microwave and toaster are used.,High,Assigned,0.0,NULL
+560,379,370,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,401.57,2025-05-16 02:00:00
+561,379,370,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,Resolved,120.45,2025-07-15 10:00:00
+562,379,370,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,39.55,2025-06-30 12:00:00
+563,380,371,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Resolved,175.94,2025-11-23 06:00:00
+564,380,371,Electrical,Complete Power Outage in Unit,Unit lost power while rest of floor remains fully energized.,Emergency,Resolved,257.39,2025-08-28 03:00:00
+565,380,371,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,Assigned,0.0,NULL
+566,381,372,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,Resolved,179.55,2025-07-03 04:00:00
+567,382,373,Plumbing,Burst Water Pipe,"Major pipe burst behind bathroom wall, active water spray.",Emergency,Resolved,970.81,2025-05-27 06:00:00
+568,382,373,HVAC,Heater Making Loud Noise,Furnace makes loud banging noise upon startup cycle.,Medium,In Progress,0.0,NULL
+569,383,374,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Resolved,325.81,2025-10-23 06:00:00
+570,383,374,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Assigned,0.0,NULL
+571,384,375,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,Resolved,129.03,2025-10-18 06:00:00
+572,385,376,Plumbing,Burst Water Pipe,"Major pipe burst behind bathroom wall, active water spray.",Emergency,In Progress,0.0,NULL
+573,386,377,Electrical,Dead Wall Outlets,Master bedroom outlets completely non-functional after minor surge.,Medium,Resolved,190.88,2025-09-05 05:00:00
+574,386,377,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,35.19,2025-09-14 07:00:00
+575,387,378,Plumbing,Low Water Pressure,Significantly reduced water flow across all fixtures in apartment.,Medium,Resolved,151.28,2025-12-24 08:00:00
+576,388,379,Appliance,Dishwasher Leaking Water,Water pooling on floor in front of dishwasher during rinse cycle.,Medium,In Progress,0.0,NULL
+577,388,379,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,Resolved,70.56,2025-05-31 07:00:00
+578,389,380,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,In Progress,0.0,NULL
+579,389,380,HVAC,Heater Making Loud Noise,Furnace makes loud banging noise upon startup cycle.,Medium,Resolved,237.52,2025-08-08 08:00:00
+580,390,381,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,261.38,2025-05-10 08:00:00
+581,391,382,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,Resolved,63.34,2025-10-27 08:00:00
+582,392,383,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Resolved,736.93,2025-06-05 02:00:00
+583,392,383,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Resolved,642.75,2025-05-05 03:00:00
+584,393,384,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Resolved,335.75,2025-10-26 10:00:00
+585,394,385,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,Assigned,0.0,NULL
+586,395,386,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Resolved,80.98,2026-02-21 09:00:00
+587,395,386,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Assigned,0.0,NULL
+588,396,387,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Resolved,165.01,2025-05-07 09:00:00
+589,397,388,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Assigned,0.0,NULL
+590,398,389,Appliance,Dishwasher Leaking Water,Water pooling on floor in front of dishwasher during rinse cycle.,Medium,Resolved,257.86,2025-10-09 01:00:00
+591,399,390,Appliance,Dishwasher Leaking Water,Water pooling on floor in front of dishwasher during rinse cycle.,Medium,In Progress,0.0,NULL
+592,400,391,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,Submitted,0.0,NULL
+593,400,391,Plumbing,Burst Water Pipe,"Major pipe burst behind bathroom wall, active water spray.",Emergency,In Progress,0.0,NULL
+594,401,392,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,Resolved,212.65,2025-06-23 10:00:00
+595,402,393,Appliance,Refrigerator Not Cooling,Fridge compartment warm while freezer remains cold.,High,Resolved,144.46,2025-04-22 10:00:00
+596,403,394,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,In Progress,0.0,NULL
+597,403,394,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,Resolved,121.22,2025-09-25 10:00:00
+598,405,395,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,Resolved,51.51,2026-01-08 11:00:00
+599,405,395,Appliance,Refrigerator Not Cooling,Fridge compartment warm while freezer remains cold.,High,Resolved,307.15,2025-12-16 12:00:00
+600,406,396,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,Resolved,158.09,2025-09-10 05:00:00
+601,407,397,Appliance,Refrigerator Not Cooling,Fridge compartment warm while freezer remains cold.,High,Resolved,190.14,2025-09-10 06:00:00
+602,408,398,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,In Progress,0.0,NULL
+603,409,399,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Submitted,0.0,NULL
+604,410,400,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,151.5,2025-07-21 07:00:00
+605,410,400,Electrical,Complete Power Outage in Unit,Unit lost power while rest of floor remains fully energized.,Emergency,In Progress,0.0,NULL
+606,411,401,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,Resolved,95.64,2025-03-23 12:00:00
+607,413,402,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Resolved,581.25,2025-07-25 11:00:00
+608,414,403,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,In Progress,0.0,NULL
+609,415,404,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,In Progress,0.0,NULL
+610,416,405,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,305.55,2025-04-14 10:00:00
+611,417,406,Electrical,Dead Wall Outlets,Master bedroom outlets completely non-functional after minor surge.,Medium,In Progress,0.0,NULL
+612,417,406,Electrical,Circuit Breaker Tripping,Main breaker trips repeatedly when microwave and toaster are used.,High,In Progress,0.0,NULL
+613,418,407,Plumbing,Burst Water Pipe,"Major pipe burst behind bathroom wall, active water spray.",Emergency,Resolved,455.88,2026-01-14 04:00:00
+614,419,408,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,Resolved,162.19,2025-04-16 05:00:00
+615,420,409,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,In Progress,0.0,NULL
+616,421,410,Plumbing,Low Water Pressure,Significantly reduced water flow across all fixtures in apartment.,Medium,In Progress,0.0,NULL
+617,422,411,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Resolved,175.82,2025-07-12 02:00:00
+618,423,412,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,Resolved,138.73,2025-10-22 04:00:00
+619,424,413,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,In Progress,0.0,NULL
+620,425,414,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,In Progress,0.0,NULL
+621,425,414,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,Resolved,106.59,2025-12-14 10:00:00
+622,426,415,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Resolved,201.27,2026-02-26 11:00:00
+623,426,415,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Resolved,159.9,2025-11-09 03:00:00
+624,427,416,Appliance,Dishwasher Leaking Water,Water pooling on floor in front of dishwasher during rinse cycle.,Medium,Submitted,0.0,NULL
+625,428,417,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Assigned,0.0,NULL
+626,428,417,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,Resolved,99.54,2025-06-24 07:00:00
+627,429,418,HVAC,Thermostat Unresponsive,Digital thermostat screen blank and unresponsive to button presses.,Low,Resolved,95.29,2026-02-21 08:00:00
+628,429,418,Plumbing,Low Water Pressure,Significantly reduced water flow across all fixtures in apartment.,Medium,In Progress,0.0,NULL
+629,430,419,Electrical,Complete Power Outage in Unit,Unit lost power while rest of floor remains fully energized.,Emergency,Resolved,283.58,2026-03-01 07:00:00
+630,431,420,Electrical,Dead Wall Outlets,Master bedroom outlets completely non-functional after minor surge.,Medium,Resolved,134.33,2025-07-03 08:00:00
+631,432,421,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,Resolved,113.1,2025-05-16 06:00:00
+632,433,422,Plumbing,Burst Water Pipe,"Major pipe burst behind bathroom wall, active water spray.",Emergency,Resolved,985.07,2025-07-25 10:00:00
+633,433,422,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Submitted,0.0,NULL
+634,434,423,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,Resolved,195.15,2026-01-17 01:00:00
+635,435,424,Electrical,Circuit Breaker Tripping,Main breaker trips repeatedly when microwave and toaster are used.,High,Resolved,289.21,2025-09-21 04:00:00
+636,436,425,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,Resolved,110.16,2025-08-21 03:00:00
+637,437,426,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Resolved,89.14,2025-06-18 05:00:00
+638,438,427,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,In Progress,0.0,NULL
+639,438,427,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Assigned,0.0,NULL
+640,438,427,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Resolved,313.06,2025-12-26 01:00:00
+641,439,428,Electrical,Dead Wall Outlets,Master bedroom outlets completely non-functional after minor surge.,Medium,Submitted,0.0,NULL
+642,440,429,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,Resolved,115.05,2025-10-17 07:00:00
+643,441,430,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,In Progress,0.0,NULL
+644,441,430,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,In Progress,0.0,NULL
+645,442,431,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,Assigned,0.0,NULL
+646,442,431,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,Resolved,136.62,2025-02-22 12:00:00
+647,443,432,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,37.07,2025-07-22 05:00:00
+648,444,433,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Resolved,226.57,2025-09-19 05:00:00
+649,444,433,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,Resolved,171.8,2025-07-03 09:00:00
+650,445,434,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Resolved,223.64,2025-10-21 04:00:00
+651,445,434,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Resolved,51.66,2025-09-07 02:00:00
+652,445,434,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Resolved,589.76,2025-09-30 12:00:00
+653,446,435,HVAC,Heater Making Loud Noise,Furnace makes loud banging noise upon startup cycle.,Medium,Resolved,192.44,2025-04-29 02:00:00
+654,446,435,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,Resolved,130.16,2025-05-18 07:00:00
+655,447,436,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,Resolved,182.67,2025-10-03 06:00:00
+656,447,436,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,In Progress,0.0,NULL
+657,448,437,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,37.97,2025-09-25 08:00:00
+658,448,437,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Assigned,0.0,NULL
+659,449,438,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,Resolved,122.64,2025-10-12 02:00:00
+660,449,438,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Resolved,192.11,2025-09-09 10:00:00
+661,450,439,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,Resolved,228.99,2026-01-14 08:00:00
+662,451,440,Plumbing,Burst Water Pipe,"Major pipe burst behind bathroom wall, active water spray.",Emergency,Resolved,357.0,2025-09-30 01:00:00
+663,451,440,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Assigned,0.0,NULL
+664,451,440,Electrical,Circuit Breaker Tripping,Main breaker trips repeatedly when microwave and toaster are used.,High,Resolved,272.06,2026-02-01 02:00:00
+665,452,441,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Resolved,218.5,2026-01-18 03:00:00
+666,453,442,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Resolved,170.08,2025-05-14 09:00:00
+667,453,442,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,Resolved,165.2,2025-06-01 04:00:00
+668,454,443,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,384.24,2025-05-22 07:00:00
+669,455,444,Plumbing,Burst Water Pipe,"Major pipe burst behind bathroom wall, active water spray.",Emergency,Resolved,703.29,2025-06-07 08:00:00
+670,455,444,HVAC,AC Not Cooling,Air conditioner blows warm air despite thermostat set to cool.,High,Resolved,433.62,2025-07-18 07:00:00
+671,456,445,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Resolved,190.85,2025-03-29 11:00:00
+672,457,446,Structural,Front Entry Door Lock Loose,Deadbolt cylinder loose and spinning inside front entry door handle.,High,Resolved,174.01,2026-01-28 06:00:00
+673,458,447,Electrical,Exposed Wiring Near Switch,"Switches panel cracked, exposing copper wires near kitchen door.",High,Resolved,235.81,2025-09-23 08:00:00
+674,458,447,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Resolved,655.59,2025-05-24 01:00:00
+675,459,448,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,Resolved,197.87,2025-07-11 03:00:00
+676,460,449,Appliance,Refrigerator Not Cooling,Fridge compartment warm while freezer remains cold.,High,Resolved,158.78,2026-03-04 07:00:00
+677,461,450,Electrical,Circuit Breaker Tripping,Main breaker trips repeatedly when microwave and toaster are used.,High,Resolved,203.62,2026-03-17 02:00:00
+678,462,451,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,In Progress,0.0,NULL
+679,462,451,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Resolved,170.16,2025-02-02 09:00:00
+680,463,452,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Resolved,545.91,2025-06-29 12:00:00
+681,463,452,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,Resolved,110.05,2025-10-31 09:00:00
+682,463,452,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,In Progress,0.0,NULL
+683,464,453,HVAC,No Heat in Winter,Heating unit completely unresponsive during freezing temperatures.,Emergency,Resolved,471.71,2025-05-25 03:00:00
+684,464,453,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Assigned,0.0,NULL
+685,465,454,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,Assigned,0.0,NULL
+686,466,455,Electrical,Dead Wall Outlets,Master bedroom outlets completely non-functional after minor surge.,Medium,Resolved,178.59,2025-08-24 11:00:00
+687,466,455,Electrical,Dead Wall Outlets,Master bedroom outlets completely non-functional after minor surge.,Medium,Resolved,175.68,2025-08-03 12:00:00
+688,466,455,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,In Progress,0.0,NULL
+689,467,456,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Resolved,215.49,2025-12-22 02:00:00
+690,468,457,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,Assigned,0.0,NULL
+691,469,458,Electrical,Circuit Breaker Tripping,Main breaker trips repeatedly when microwave and toaster are used.,High,Assigned,0.0,NULL
+692,470,459,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,67.88,2026-04-04 08:00:00
+693,471,460,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Submitted,0.0,NULL
+694,472,461,Electrical,Complete Power Outage in Unit,Unit lost power while rest of floor remains fully energized.,Emergency,Assigned,0.0,NULL
+695,473,462,Plumbing,Burst Water Pipe,"Major pipe burst behind bathroom wall, active water spray.",Emergency,Resolved,1161.03,2025-07-15 09:00:00
+696,473,462,Plumbing,Leaking Kitchen Sink,Water dripping continuously from the under-sink pipe fitting causing minor flooding.,Medium,Submitted,0.0,NULL
+697,474,463,Appliance,Dishwasher Leaking Water,Water pooling on floor in front of dishwasher during rinse cycle.,Medium,In Progress,0.0,NULL
+698,475,464,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,Resolved,180.59,2026-03-03 05:00:00
+699,475,464,Appliance,Dishwasher Leaking Water,Water pooling on floor in front of dishwasher during rinse cycle.,Medium,Assigned,0.0,NULL
+700,476,465,Electrical,Complete Power Outage in Unit,Unit lost power while rest of floor remains fully energized.,Emergency,Resolved,164.22,2025-08-25 09:00:00
+701,477,466,Electrical,Complete Power Outage in Unit,Unit lost power while rest of floor remains fully energized.,Emergency,Resolved,265.7,2025-05-15 01:00:00
+702,478,467,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,Resolved,182.73,2025-11-06 08:00:00
+703,479,468,Structural,Window Latch Broken,"Bedroom window latch broken, preventing window from locking securely.",Medium,Resolved,81.79,2026-03-31 03:00:00
+704,479,468,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,Resolved,203.98,2025-11-13 07:00:00
+705,480,469,Electrical,Dead Wall Outlets,Master bedroom outlets completely non-functional after minor surge.,Medium,In Progress,0.0,NULL
+706,481,470,HVAC,Heater Making Loud Noise,Furnace makes loud banging noise upon startup cycle.,Medium,Submitted,0.0,NULL
+707,482,471,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,Resolved,186.5,2025-11-15 11:00:00
+708,483,472,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Resolved,230.56,2026-02-13 02:00:00
+709,483,472,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Resolved,86.77,2026-02-25 06:00:00
+710,484,473,Structural,Water Damage Stain on Ceiling,Discolored brown stain expanding on living room ceiling.,High,Resolved,348.22,2025-02-27 06:00:00
+711,485,474,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,Cancelled,0.0,NULL
+712,486,475,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,Assigned,0.0,NULL
+713,487,476,Appliance,Refrigerator Not Cooling,Fridge compartment warm while freezer remains cold.,High,Resolved,348.62,2025-10-13 11:00:00
+714,487,476,Plumbing,Clogged Shower Drain,Shower draining extremely slowly and backing up during use.,Low,Resolved,97.35,2025-09-20 02:00:00
+715,488,477,Electrical,Circuit Breaker Tripping,Main breaker trips repeatedly when microwave and toaster are used.,High,In Progress,0.0,NULL
+716,489,478,Electrical,Circuit Breaker Tripping,Main breaker trips repeatedly when microwave and toaster are used.,High,Resolved,212.78,2025-09-29 07:00:00
+717,490,479,Appliance,Refrigerator Not Cooling,Fridge compartment warm while freezer remains cold.,High,Resolved,292.43,2025-02-22 02:00:00
+718,491,480,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,Assigned,0.0,NULL
+719,491,480,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,Resolved,212.71,2025-06-02 10:00:00
+720,492,481,Appliance,Oven Door Latches Stuck,Oven door handle loose and latch mechanism stuck in locked state.,Low,Resolved,64.31,2025-09-11 09:00:00
+721,493,482,Appliance,Washing Machine Shaking Loudly,In-unit washing machine shakes aggressively during spin cycle.,Medium,Resolved,95.93,2025-10-16 01:00:00
+722,494,483,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Resolved,80.86,2025-08-05 07:00:00
+723,495,484,Plumbing,Toilet Running Continuously,Toilet flapper leak causing the tank to fill repeatedly.,Low,Resolved,81.9,2025-10-05 04:00:00
+724,496,485,Structural,Balcony Sliding Door Jammed,Sliding glass door off track and extremely difficult to open.,Medium,Resolved,117.53,2025-06-14 04:00:00
+725,497,486,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,Submitted,0.0,NULL
+726,498,487,Structural,Crack in Living Room Drywall,Visible vertical hairline fracture appearing above balcony door frame.,Low,Resolved,116.84,2026-01-25 04:00:00
+727,499,488,Appliance,Stove Top Burner Inoperative,Front right electric burner element does not heat up.,Low,Resolved,137.27,2025-09-05 02:00:00
+728,499,488,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,Resolved,130.61,2025-09-24 06:00:00
+729,500,489,HVAC,Musty Smell from Vents,Strong musty odor emitted whenever HVAC system runs.,Low,Resolved,174.2,2025-11-18 07:00:00
+730,500,489,Electrical,Flickering Lights,Overhead ceiling light fixture in living room flickering intermittently.,Low,Resolved,128.57,2025-08-30 05:00:00

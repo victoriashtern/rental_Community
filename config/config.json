@@ -1,0 +1,9 @@
+{
+  "mysql": {
+    "host": "localhost",
+    "user": "root",
+    "password": "secret555!",
+    "database": "rental_community",
+    "port": 3306
+  }
+}
