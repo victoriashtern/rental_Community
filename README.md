@@ -20,7 +20,7 @@ Write optimized SQL queries to answer the following business questions:
 
 1. **Payment Reliability:** Identify active leases that have accumulated overdue rent or penalty charges.
 2. **Operational Profitability:** Measure total annual rental income collected versus total resolved maintenance costs for each building.
-3. **Maintenance SLAs:** Rank maintenance categories by resolution delay and identify "troubled" units with frequent long-duration repairs (>48 hours).
+3. **Maintenance SLAs:** Rank maintenance categories by resolution delay and identify "troubled" units that were repired on a weekends.
 4. **Lease Continuity:** Analyze occupancy continuity and calculate the turnover gap (idle days) between consecutive leases per apartment.
 5. **High-Risk Tenants:** Identify tenants who are simultaneously late on payments (unpaid balance > 1.5x monthly rent) **AND** generating high maintenance costs (> 50% of security deposit across >3 requests).
 
