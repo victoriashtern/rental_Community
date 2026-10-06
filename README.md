@@ -59,3 +59,5 @@ Develop a interactive, multi-page Power BI report (`.pbix`) containing the follo
 Please package and submit a single zip file containing:
 1. **`solution.sql`**: All SQL queries written for Part 2 (clearly commented by question number).
 2. **`Rental_Community_Analytics.pbix`**: The completed Power BI report file for Part 3.
+3. **`Optional Presentation`**: Create a presentation to finalize your answers
+4. **`Submision`**: Please submit your work to victoria.shtern@trios.com, before October 8th, 1pm.
